@@ -1,0 +1,22 @@
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.exe
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.deps.json
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.runtimeconfig.json
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.dll
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\GameF.pdb
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.Form1.resources
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.Properties.Resources.resources
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.csproj.GenerateResource.cache
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.dll
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\refint\GameF.dll
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.pdb
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\ref\GameF.dll
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\Board F.dll
+C:\Users\Vladislav\source\repos\Game F\GameF\bin\Debug\net5.0-windows\Board F.pdb
+C:\Users\Vladislav\source\repos\Game F\GameF\obj\Debug\net5.0-windows\GameF.csproj.CopyComplete

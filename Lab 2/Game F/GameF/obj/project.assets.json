@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Board F/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Board F.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Board F.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Board F/1.0.0": {
+      "type": "project",
+      "path": "../Board F/Board F.csproj",
+      "msbuildProject": "../Board F/Board F.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Board F >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vladislav\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\Game F\\GameF\\GameF.csproj",
+      "projectName": "GameF",
+      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\Game F\\GameF\\GameF.csproj",
+      "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\Game F\\GameF\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Vladislav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Vladislav\\source\\repos\\Game F\\Board F\\Board F.csproj": {
+              "projectPath": "C:\\Users\\Vladislav\\source\\repos\\Game F\\Board F\\Board F.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
